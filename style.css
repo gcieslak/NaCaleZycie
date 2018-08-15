@@ -1,0 +1,46 @@
+ .carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.headerOne {
+    height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Sesja9.jpg);
+    border: solid white 15px;
+}
+
+.headerTwo {
+    height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Ewelina&Bartosz-490.jpg);
+    border: solid white 15px;
+}
+
+.headerThird {
+    height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Sesja12.jpg);
+    border: solid white 15px;
+}
+.headerFour{
+height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Sesja2.jpg);
+    border: solid white 15px;
+
+
+
+
+
+}
+

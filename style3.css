@@ -1,0 +1,24 @@
+.headerOne {
+    height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Sesja9.jpg);
+    border: solid white 15px;
+}
+
+.headerTwo {
+    height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Ewelina&Bartosz-490.jpg);
+    border: solid white 15px;
+}
+
+.headerThird {
+    height: 100vh;
+    background: no-repeat center;
+    -webkit-background-size: cover;
+    background-image: url(img/Sesja12.jpg);
+    border: solid white 15px;
+}
+
