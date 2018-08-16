@@ -39,4 +39,19 @@ height: 100vh;
     border: solid white 15px;
 }
 
+.headLines{
+    padding-top: 10px;
+    font-family: 'EB Garamond', serif;
+    font-size: 31px;
+    text-align: center;
+    
+}
 
+.hoverHeaders{
+   margin: 25px;
+}
+
+.hoverMargin{
+    margin-top: 15px;
+    
+}
