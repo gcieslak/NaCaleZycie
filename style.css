@@ -41,10 +41,9 @@ height: 100vh;
 
 .headLines{
     padding-top: 10px;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 31px;
     text-align: center;
-    
 }
 
 .hoverHeaders{
@@ -54,4 +53,20 @@ height: 100vh;
 .hoverMargin{
     margin-top: 15px;
     
+}
+
+.textCenter{
+    text-align: center ; 
+
+}
+.heading{
+    margin-bottom: 20px;
+}
+
+.footer{
+    padding-top: 20px;
+    font-size: 12px;
+    padding-left: 35px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
 }
